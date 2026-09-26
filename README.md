@@ -11,3 +11,5 @@ C#, JS, JAVA
 ![streak](https://streak-stats.demolab.com/?user=alena0615&theme=radical)
 
 ![views](https://komarev.com/ghpvc/?username=alena0615&color=green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alena0615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
